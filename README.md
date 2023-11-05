@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jk3570
 - 👀 I’m interested in web development and programming.
-- 🌱 I’m currently learning html, css, javascript, c language, and java.
+- 🌱 I’m currently learning html, css, javascript, php, and java.
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me...
 
